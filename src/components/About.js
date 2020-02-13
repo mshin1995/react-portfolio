@@ -1,8 +1,8 @@
-import React from 'react'
+import React from 'react';
 
 const About = () => {
     return ( 
-        <div className="about-container section-container section-container-gray-bg">
+        <div className="about-container section-container section-container-gray-bg" id="about">
     		<div className="container">
         		<div className="row">
             		<div className="col-12 col-lg-7 about-box wow fadeInLeft">
