@@ -2,7 +2,7 @@ import React from 'react';
 
 const Technology = () => {
     return (
-        <div className="technology-container section-container section-container-gray-bg">
+        <div className="technology-container section-container section-container-gray-bg" id="technology">
 	        <div className="container">
 	            <div className="row">
 	                <div className="col technology section-description">

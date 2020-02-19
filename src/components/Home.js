@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home = () => {
     return (
-        <div className="top-content">
+        <div className="top-content" id="top-content">
             <div className="container">
                 <div className="row">
                     <div className="col-md-8 offset-md-2 text">

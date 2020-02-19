@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = () => {
     return (
-        <footer>
+        <footer id="contact">
 	        <div className="container footer-container">
 	        	<div className="row">
                     <div className="col-md-5 footer-left">

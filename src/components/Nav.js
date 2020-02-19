@@ -18,7 +18,7 @@ const Nav = () => {
 			            <a className="nav-link scroll-link" href="#technology">Technologies</a>
 			        </li>
 			        <li className="nav-item">
-			            <a className="nav-link scroll-link" href="#footer">Contact</a>
+			            <a className="nav-link scroll-link" href="#contact">Contact</a>
 			        </li>
 			    </ul>
 			</div>
