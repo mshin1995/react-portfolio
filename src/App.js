@@ -4,8 +4,8 @@ import Home from './components/Home';
 import About from './components/About';
 import Projects from './components/Projects';
 import Technology from './components/Technology';
-import Contact from './components/Contact'
-import Modal from './components/Modal'
+import Contact from './components/Contact';
+import Gameup from './modals/Gameup';
 import './App.css';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Projects />
       <Technology />
       <Contact />
-      <Modal />
+      <Gameup />
     </div>
   );
 };
