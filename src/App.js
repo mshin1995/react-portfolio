@@ -5,6 +5,7 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Technology from './components/Technology';
 import Contact from './components/Contact'
+import Modal from './components/Modal'
 import './App.css';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Projects />
       <Technology />
       <Contact />
+      <Modal />
     </div>
   );
 };
