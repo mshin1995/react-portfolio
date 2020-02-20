@@ -6,6 +6,9 @@ import Projects from './components/Projects';
 import Technology from './components/Technology';
 import Contact from './components/Contact';
 import Gameup from './modals/Gameup';
+import Dinodash from './modals/Dinodash';
+import Petmatchr from './modals/Petmatchr';
+import Nba from './modals/Nba';
 import './App.css';
 
 function App() {
@@ -18,6 +21,9 @@ function App() {
       <Technology />
       <Contact />
       <Gameup />
+      <Dinodash />
+      <Petmatchr />
+      <Nba />
     </div>
   );
 };
