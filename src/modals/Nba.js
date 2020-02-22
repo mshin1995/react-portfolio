@@ -19,10 +19,10 @@ const Nba = () => {
 							</ol>
 							<div class="carousel-inner">
 							  	<div class="carousel-item active">
-									<img class="d-block w-100" src="assets/img/projects/NBA1.png" alt="First slide" />
+									<img class="d-block w-100" src="projects/NBA1.png" alt="First slide" />
 							 	</div>
 							 	<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/NBA.gif" alt="Second slide" />
+									<img class="d-block w-100" src="projects/NBA.gif" alt="Second slide" />
 							  	</div>
 							</div>
 							<a class="carousel-control-prev" href="#nbaCarousel" role="button" data-slide="prev">
