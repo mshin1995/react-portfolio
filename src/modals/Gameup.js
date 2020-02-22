@@ -22,19 +22,19 @@ const Gameup = () => {
 							</ol>
 							<div class="carousel-inner">
 							  	<div class="carousel-item active">
-									<img class="d-block w-100" src="assets/img/projects/GameUP5.png" alt="First slide" />
+									<img class="d-block w-100" src="projects/GameUP5.png" alt="First slide" />
 							 	</div>
 							 	<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/GameUP2.png" alt="Second slide" />
+									<img class="d-block w-100" src="projects/GameUP2.png" alt="Second slide" />
 							  	</div>
 							 	<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/GameUP3.png" alt="Third slide" />
+									<img class="d-block w-100" src="projects/GameUP3.png" alt="Third slide" />
 								</div>
 								<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/GameUP4.png" alt="Fourth slide" />
+									<img class="d-block w-100" src="projects/GameUP4.png" alt="Fourth slide" />
 								</div>
 								<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/GameUP.gif" alt="Fifth slide" />
+									<img class="d-block w-100" src="projects/GameUP.gif" alt="Fifth slide" />
 							  	</div>
 							</div>
 							<a class="carousel-control-prev" href="#gameCarousel" role="button" data-slide="prev">
