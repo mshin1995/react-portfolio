@@ -23,22 +23,22 @@ const Petmatchr = () => {
 							</ol>
 							<div class="carousel-inner">
 							  	<div class="carousel-item active">
-									<img class="d-block w-100" src="assets/img/projects/PetMatchr3.png" alt="First slide" />
+									<img class="d-block w-100" src="projects/PetMatchr3.png" alt="First slide" />
 							 	</div>
 							 	<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/PetMatchr4.png" alt="Second slide" />
+									<img class="d-block w-100" src="projects/PetMatchr4.png" alt="Second slide" />
 								</div>
 								<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/PetMatchr2.png" alt="Third slide" />
+									<img class="d-block w-100" src="projects/PetMatchr2.png" alt="Third slide" />
 								</div>
 								<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/PetMatchr5.png" alt="Fourth slide" />
+									<img class="d-block w-100" src="projects/PetMatchr5.png" alt="Fourth slide" />
 								</div>
 								<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/PetMatchr6.png" alt="Fifth slide" />
+									<img class="d-block w-100" src="projects/PetMatchr6.png" alt="Fifth slide" />
 								</div>
 								<div class="carousel-item">
-									<img class="d-block w-100" src="assets/img/projects/PetMatchr7.png" alt="Sixth slide" />
+									<img class="d-block w-100" src="projects/PetMatchr7.png" alt="Sixth slide" />
 							  	</div>
 							</div>
 							<a class="carousel-control-prev" href="#petCarousel" role="button" data-slide="prev">
